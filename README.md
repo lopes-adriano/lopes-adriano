@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Olá, sou o Adriano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-
+<picture></picture>
 <h2 align="center"> Mobile and Fullstack Developer
 
 <br>
@@ -15,9 +15,9 @@
 
 <br>
 
-- Sou formado em Engenharia de Computação pela Universidade Federal de Goiás
-- Tenho experiência com desenvolvimento Mobile com Angular e Ionic
-- Atualmente aprendendo React Native
+- :computer: Sou formado em Engenharia de Computação pela Universidade Federal de Goiás
+- :bulb: Tenho experiência com desenvolvimento Mobile com Angular e Ionic
+- :books: Atualmente aprendendo React Native
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -91,8 +91,7 @@
 <div align="center">
 
 <a href="https://github.com/lopes-adriano/">
-  <img src="https://github-readme-stats.vercel.app/api?username=lopes-adriano&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lopes-adriano&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lopes-adriano&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="lopes-adriano"/>
 
 </a>
 </div>
@@ -108,25 +107,23 @@
 
 ## <b> Contato</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
+<div align='center'>
 
-<ul>
+<p>
 
-<li>
+
 <a href="https://www.linkedin.com/in/lopes-adriano/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
-<br>
 
-<li>
+
 <a href="mailto:adrianolopes.dev@outlook.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
+</p>
 	
-</ul>
+
 </div>
 
 <br>
