@@ -16,7 +16,7 @@
 <br>
 
 - :computer: Sou formado em Engenharia de Computação pela Universidade Federal de Goiás
-- :bulb: Tenho experiência com desenvolvimento Mobile com Angular e Ionic
+- :bulb: Tenho experiência com desenvolvimento FullStack e Mobile com Angular, Ionic e NestJS
 - :books: Atualmente cursando pós-graduação em Processamento de Linguagem Natural
 <br><br>
 
