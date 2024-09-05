@@ -2,7 +2,7 @@
 <h1 align="center"><b>Olá, sou o Adriano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <picture></picture>
-<h2 align="center"> Mobile and Fullstack Developer
+<h2 align="center"> Fullstack Developer
 
 <br>
 
