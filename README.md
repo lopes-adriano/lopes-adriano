@@ -3,8 +3,7 @@
 <h1 align="center"><b>Adriano Lopes</b></h1>
 <!--  -->
 
-<h2 align="center"> <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5tNTloZ2ZhdW5kb2hhcHUydTV6b3Bic3RjenB5NnVramsyZDVyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.webp" 
-			    width=150 style="margin-bottom: 8px;"> <br> Desenvolvedor de Software <br> </h2>
+<h2 align="center"> Desenvolvedor de Software <br> </h2>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25"> **Sobre mim**
